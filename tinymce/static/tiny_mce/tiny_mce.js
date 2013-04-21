@@ -24109,7 +24109,7 @@ define("tinymce/Editor", [
 			submit_patch: true,
 			add_unload_trigger: true,
 			convert_urls: true,
-			relative_urls: true,
+			relative_urls: false,
 			remove_script_host: true,
 			table_inline_editing: false,
 			object_resizing: true,
